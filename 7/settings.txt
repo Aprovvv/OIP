@@ -1,0 +1,1 @@
+Settings: frequency = 20, quantization step = 0.01
